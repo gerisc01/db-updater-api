@@ -61,6 +61,6 @@ app.put('/api/v1/gistdb/:gistId/:fileName', function (req, res) {
   })
 })
 
-app.listen(80, function () {
-  console.log('Example app listening on port 3001!')
+app.listen(3000, function () {
+  console.log('Example app listening on port 3000!')
 })
