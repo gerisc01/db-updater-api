@@ -1,0 +1,22 @@
+{
+  "name": "database_updater",
+  "version": "1.0.0",
+  "description": "A small web service originally used to make update calls to gist while hosting the full site on github pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerisc01/games-library.git"
+  },
+  "author": "Scott Gerike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerisc01/games-library/issues"
+  },
+  "homepage": "https://github.com/gerisc01/games-library#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
